@@ -1,0 +1,43 @@
+hr  {
+    border-style: dotted none none;
+    border-color: azure;
+    width: 30%;
+    border-color: grey;
+    border-width: 5px; 
+}
+
+img    {
+    height: 200px;
+    color: rgb(54, 216, 154);;
+}
+h2{
+    color: #66bfbf
+}
+
+h3{
+    color: #66bfbf
+}
+h1{
+    color: #66bfbf;
+}
+body{
+    background-color:#F9F9F9;
+}
+a:link{
+    color: #F6C6EA;
+}
+a:visited{
+    color: #C490E4
+}
+body{
+    font-family: cursive;
+    font-style: italic;
+}
+input{
+    font-style: oblique;
+    font-family: cursive;
+}
+textarea{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
